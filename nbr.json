@@ -9,10 +9,7 @@
         "mount_procfs": "1",
         "boot": "on"
     },
-    "pkgs": [
-        "ftp/curl",
-        "java/openjdk25-jre-headless"
-    ],
+    "pkgs": [],
     "packagesite": "http://pkg.freebsd.org/${ABI}/quarterly",
     "fingerprints": {
         "plugin-default": [
